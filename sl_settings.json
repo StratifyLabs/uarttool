@@ -4,15 +4,17 @@
    "name": "uarttool",
    "permissions": "public",
    "publisher": "Stratify Labs, Inc",
-   "tags": "demo",
+   "tags": "tool",
    "type": "app",
-   "uid": "7Z4mr0HQx2eKHHVSX3OYBCPWE5n1",
-   "version": "0.1",
+   "uid": "9cQyOTk3fZXOuMtPyf5j9X4H4b83",
+   "version": "0.2",
    "hardwareId": "",
    "ramSize": 0,
-   "timestamp": 1549640392,
+   "timestamp": 1552190701,
    "documentId": "FyzncMe0fzxh4KVrgdID",
    "buildList": {
-      "pQTy5Z4fY4jhXQvW5nky": "0.1"
-   }
+      "pQTy5Z4fY4jhXQvW5nky": "0.1",
+      "gvcxd6ifYw0FMuyAGgbD": "0.2"
+   },
+   "readme": "IyB1YXJ0dG9vbApTdHJhdGlmeSBUb29sYm94IGFwcGxpY2F0aW9uIGZvciBjb250cm9sbGluZyB0aGUgVUFSVAp="
 }
