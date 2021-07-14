@@ -9,6 +9,7 @@
 #define SL_CONFIG_VERSION_STRING "0.2"
 #define SL_CONFIG_VERSION_BCD 0x02
 #define SL_CONFIG_DOCUMENT_ID "FyzncMe0fzxh4KVrgdID"
+#define SL_CONFIG_TEAM_ID ""
 #define SL_CONFIG_NAME "uarttool"
 #define SL_CONFIG_TYPE "app"
 #define SL_CONFIG_PUBLISHER "Stratify Labs, Inc"
